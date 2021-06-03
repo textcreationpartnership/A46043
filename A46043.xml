@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A journal of the proceedings of the pretended Parliament in Dublin from the 7th to the 20th of this instant May : a breviate of the late King's speech and the speakers repeal of the Act of Settlement ...</title>
+            <author>Ireland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46043</idno><idno type="EEBO-CITATION">15305242</idno>
+  <idno type="VID">103386</idno>
+  <idno type="EEBO-PROQUEST">2240852720</idno>
+  
+            <idno type="STC">Wing I422B</idno>
+            <idno type="STC">ESTC R35434</idno>
+            <idno type="OCLC">15305242</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700, 1189:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A journal of the proceedings of the pretended Parliament in Dublin from the 7th to the 20th of this instant May : a breviate of the late King's speech and the speakers repeal of the Act of Settlement ...</title>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Wallis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Sovereign (1685-1688 : James II)</term>
+               <term type="geographic_name">Ireland --  History --  1688-1689.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103386:1"/>
+            <head>A JOURNAL OF THE PROCEEDINGS Of the pretended PARLIAMENT IN DUBLIN, From the 7th, to the 20th of this Instant <hi>May.</hi> A BREVIATE OF The Late King's Speech; AND THE SPEAKER'S Repeal of the ACT of SETTLEMENT, and taking away the King's Supremacies, with the Names of the Protestant LORDS Spiritual and Temporal Sitting in Parliament.</head>
+            <p>ON <hi>Tuesday,</hi> the 7th. of <hi>May,</hi> the Parliament Assembled according to the Return of the Writts, at the Inns in <hi>Dublin;</hi> the late King being present with his Crown and Robes, Attended by Twenty Two Peers, Four of which were Spiritual Lords <hi>Protestants,</hi> viz.
+<list>
+                  <item>Dr. <hi>Dobbin</hi> Bishop of <hi>Meth,</hi>
+                  </item>
+                  <item>Dr. <hi>Wittenhal</hi> Bishop of <hi>Cork,</hi>
+                  </item>
+                  <item>Dr. —, Bishop of <hi>Limerick,</hi>
+                  </item>
+                  <item>Dr. —, Bishop of <hi>Ossory.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And of the Temperal Lords there were only Four <hi>Protestants,</hi> viz.
+<list>
+                  <item>Earl of <hi>Granard,</hi>
+                  </item>
+                  <item>Lord <hi>Longford,</hi>
+                  </item>
+                  <item>Lord <hi>Howth,</hi> and</item>
+                  <item>Earl of <hi>Kingsaile.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The late King made a Speech, in which he assured them he would Consent to the Inact<g ref="char:EOLhyphen"/>ing of such Laws as should Relieve them which were prejudiced by the late Act of Settlement,
+<pb n="2" facs="tcp:103386:2"/> which done, the Commons proceeded, to the Election of their Speaker, who after half an Hours Conference Chose Sir <hi>Richard Nagle,</hi> who in the behalf of the Commons craved the Four usual Petitions, which granted, the House Adjurned till the Morrow.</p>
+            <p>
+               <hi>Wednesday</hi> the 8th. The Lords passed the Bill of Recognition of the late King's Right. The 9th. was <hi>Assention</hi> day.</p>
+            <p>
+               <hi>Friday</hi> the 10th, the Commons passed the Recognition Bill; on the same day Sir <hi>Ʋlic Burke</hi> brought into the House of Commons a Bill for the Repealing the Acts of Settlement and Explanation; Which the House received with an Huzza, and then read a first and second time, and ordered it to be Committed.</p>
+            <p>The same day some moved thereupon in the House, that nothing could be more Ad<g ref="char:EOLhyphen"/>vantagious to the King and Country, then to destroy the Horrid and Barbarous Act of Set<g ref="char:EOLhyphen"/>tlement, as they was pleased to call it: And whoever should alledge the Contrary, shall be Deemed an Enemy to both 'twas moved by another Member, that the Act of Settlement ought to be burnt by the Common Hang<g ref="char:EOLhyphen"/>man.</p>
+            <p>
+               <hi>Saturday</hi> the 11th. The late King gave his Assent to the Bill of Recognition, and Ad<g ref="char:EOLhyphen"/>journed till <hi>Munday.</hi>
+            </p>
+            <p>
+               <hi>Munday</hi> the 13th. A Bill with some Limita<g ref="char:EOLhyphen"/>tions, was Read in the House of Lords, a<g ref="char:EOLhyphen"/>bridging the Bill sent from the Commons for Repealing the Act of Settlement, and only giving the old Proprietor a Moiety.</p>
+            <p>
+               <hi>Tuesday</hi> the 14th. A Bill passed the House of Commons, Impowering the King to Dispose of all Pattent Offices in Posession or Revertion, after the 20th. day of <hi>May</hi> instant; and ano<g ref="char:EOLhyphen"/>ther Bill to Bar all Writts of Error and Ap<g ref="char:EOLhyphen"/>pales to <hi>England,</hi> Asserting that no Law of <hi>England</hi> can bind that Kingdom; Both which Bills were sent up to the House of Lords.</p>
+            <p>
+               <hi>Wednesday</hi> the 15th. A Bill was Read in the House of Commons for Repealing <hi>Poyning</hi>'s Law, and also another Bill for giving the King 15000 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Month for one Year, to be Levied on the Tenement, but to be Allowed them in their Rents by their Land-lords with<g ref="char:EOLhyphen"/>out regard to Previous Courtails.</p>
+            <p>
+               <hi>Thursday</hi> the 16th. A Bill was brought in by the House of Commons, for taking away the Kings Supremacies in Ecclesiasticks, and A<g ref="char:EOLhyphen"/>brogating all Penal Laws against Papists: In the House of Commons there are only five Protestant Members, viz. Sir <hi>John Made, Jo<g ref="char:EOLhyphen"/>seph Coghlan,</hi> Sir <hi>Thomas Crosby, Arthur — Jeremy Douovan,</hi> Esq;</p>
+            <p>The same day it was moved in the House of Lords, that all absenters Lands should go towards Reprisals.</p>
+            <p>The King since the Session of Parliament, has Created (the Lord Chancellor Chief Justice <hi>Nugent,</hi> Lord General, Mr. <hi>Carty,</hi> Sir <hi>Valentine Braone,</hi> Collonel, <hi>Luttrell,</hi> Collonel <hi>Sarsefield,</hi> and about fourteen more) Lords, the Act for Seizing most of the Absenters Estates is since passed, and is so strictly put in Execu<g ref="char:EOLhyphen"/>tion, that the Shops of poor Huckster-Women whose Husbands are in <hi>England,</hi> are daily plundered, which makes <hi>Dublin</hi> Ring with the Cries of the poor.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Lincensed <date>
+                  <hi>May,</hi> 31. 1689.</date>
+            </p>
+            <closer>
+               <signed>James Frasier.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>London <hi>Printed by</hi> John Wallis <hi>in</hi> White-Fryars. <hi>1689.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
